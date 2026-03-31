@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnandDruva
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps At Jspider Basavagudi Bengaluru
-- 💞️ I’m looking to collaborate on DevOps Team
+- 👋 Hi, I’m @Ananda
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently working in idea infinity it solution
+- 💞️ I’m looking to collaborate on android Team
 - 📫 How to reach me anand90366@gmail.com
 
 <!---
